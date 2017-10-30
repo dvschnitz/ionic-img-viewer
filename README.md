@@ -111,3 +111,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 Thank you, [contributors]!
 
 [contributors]: https://github.com/Riron/ionic-img-viewer/graphs/contributors
+
+
+ADDED:
+
+Add dist folder, Build with:
+npm run build
+git add .
+git commit
+git push

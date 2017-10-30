@@ -45,6 +45,13 @@ import { ImageViewerEnter, ImageViewerLeave } from './image-viewer-transitions';
 				<img [src]="imageUrl" tappable #image />
 			</div>
 		</div>
+
+		<ion-footer>
+			<ion-toolbar>
+				<ion-title>Artwork Name</ion-title>
+				<p margin-left>Artist Name</p>
+			</ion-toolbar>
+	  	</ion-footer>
 	`,
 	styles: [],
 	encapsulation: ViewEncapsulation.None
