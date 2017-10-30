@@ -120,3 +120,7 @@ npm run build
 git add .
 git commit
 git push
+
+In real:
+npm publish
+
